@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/Desktop/temprep/android-topeka/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/dramalho/Desktop/temprep/android-topeka/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6a6901b61a45a2cf01a63163fb3b8b4b3bf15196/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dramalho/Desktop/temprep/android-topeka/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9ddaa0b364555c96cf82fef89365434191b5be3">
+        <dex dex="/Users/dramalho/Desktop/temprep/android-topeka/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_110e00d5b49fde729edf9921d1893329f07827fa/classes.dex" />
+    </item>
+
+</items>

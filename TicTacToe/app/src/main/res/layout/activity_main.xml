@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.dramalho.tictactoe.MainActivity"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:layout_marginTop="160dp">
+
+        <Button
+            android:id="@+id/tl"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text=""/>
+
+        <Button
+            android:id="@+id/tm"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/tr"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text=""/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/ml"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/mm"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/mr"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/bl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/bm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+
+        <Button
+            android:id="@+id/br"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/new_game_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Game"
+        android:layout_gravity="center"/>
+
+
+
+
+
+</LinearLayout>
